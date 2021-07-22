@@ -20,3 +20,7 @@ Terminal Kali/ParrotOS
 ```
 whois dominio.com
 ```
+### GOOGLE DORKS
+```
+https://www.exploit-db.com/google-hacking-database
+```
