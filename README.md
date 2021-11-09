@@ -21,6 +21,8 @@ Terminal Kali/ParrotOS
 whois dominio.com
 ```
 ### GOOGLE DORKS
-```
 https://www.exploit-db.com/google-hacking-database
+```
+Pais:       site:*.com.gt
+API Keys:   intitle:”index of” api_key OR “api key” OR apiKey
 ```
