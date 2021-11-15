@@ -1,4 +1,4 @@
-# Herramientas OSINT
+# Herramientas OSINT (Open-source intelligence)
 Herramientas útiles para recopilar información de fuentes públicas.
 
 ### THEHARVESTER
