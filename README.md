@@ -6,6 +6,7 @@ Herramientas útiles para recopilar información de fuentes públicas.
 theHarvester -d domain.com -b linkedin
 ```
 ### SHODAN
+https://github.com/jakejarvis/awesome-shodan-queries
 ```
 has_screenshot:true encrypted attention
 screenshot.label:ics
