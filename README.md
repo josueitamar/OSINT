@@ -17,6 +17,10 @@ http.favicon.hash:-1776962843
 https://crt.sh/
 https://www.nmmapper.com/sys/tools/subdomainfinder/
 ```
+### Historial y Versiones de Páginas Web
+```
+https://archive.org/
+```
 ### WHOIS
 Web
 ```
