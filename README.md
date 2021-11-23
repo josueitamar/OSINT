@@ -12,8 +12,9 @@ has_screenshot:true encrypted attention
 screenshot.label:ics
 http.favicon.hash:-1776962843
 ```
-### Reconocimiento de Subdominios
+### Reconocimiento de Dominios y Subdominios
 ```
+https://viewdns.info/
 https://crt.sh/
 https://www.nmmapper.com/sys/tools/subdomainfinder/
 ```
