@@ -14,9 +14,10 @@ http.favicon.hash:-1776962843
 ```
 ### Reconocimiento de Dominios y Subdominios
 ```
+https://www.nmmapper.com/sys/tools/subdomainfinder/
+https://spyse.com/
 https://viewdns.info/
 https://crt.sh/
-https://www.nmmapper.com/sys/tools/subdomainfinder/
 ```
 ### Historial y Versiones de Páginas Web
 ```
