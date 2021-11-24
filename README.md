@@ -18,6 +18,7 @@ https://www.nmmapper.com/sys/tools/subdomainfinder/
 https://spyse.com/
 https://viewdns.info/
 https://crt.sh/
+https://ipinfo.io/
 ```
 ### Historial y Versiones de Páginas Web
 ```
