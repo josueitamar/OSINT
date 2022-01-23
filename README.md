@@ -25,6 +25,11 @@ https://ipinfo.io/
 ```
 https://archive.org/
 ```
+### Sitios Similare
+```
+https://www.sitesimilar.net/
+```
+
 ### WHOIS
 Web
 ```
